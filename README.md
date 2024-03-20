@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Hello!
 
-- Current CS undergrad trying to learn 🙂
+Current CS undergrad trying to learn 🙂
