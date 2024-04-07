@@ -19,4 +19,14 @@ Here are some ideas to get you started:
 
 ### Hello!
 
-Current CS undergrad trying to learn 🙂
+CS undergrad just trying to learn 🙂
+
+Currently learning:
+- Java in class (language basics; JavaFX)
+- Python in my free time (language basics; venv; numpy, pandas, matplotlib, jupyter notebook, etc.)
+- git for version control and public portfolio
+
+Experience with: 
+- C++
+- SQLite
+- Qt
