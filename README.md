@@ -23,7 +23,7 @@ CS undergrad just trying to learn 🙂
 
 Currently learning:
 - Java in class (language basics; JavaFX)
-- Python in my free time (language basics; venv; numpy, pandas, matplotlib, jupyter notebook, etc.)
+- Python in my free time (language basics; venv; numpy, pandas, matplotlib, jupyter notebook, plotly/dash, etc.)
 - git for version control and public portfolio
 
 Experience with: 
