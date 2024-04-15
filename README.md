@@ -24,6 +24,7 @@ CS undergrad just trying to learn 🙂
 Currently learning:
 - Java in class (language basics; JavaFX)
 - Python in my free time (language basics; venv; numpy, pandas, jupyter, data visualization, etc.)
+- HTML, CSS, JavaScript basics in my free time
 - git for version control and public portfolio
 
 Experience with: 
