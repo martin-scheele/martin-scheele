@@ -27,7 +27,7 @@ Currently learning:
 - HTML, CSS, JavaScript basics in my free time
 - git for version control and public portfolio
 
-Experience with: 
+Previous experience with: 
 - C++
 - SQLite
 - Qt
