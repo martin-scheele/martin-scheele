@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Hello!
 
-CS undergrad just trying to learn 🙂
-
+CS undergrad just trying to learn :^)
+<!--
 Currently learning:
 - Java in class (language basics; JavaFX)
 - Python in my free time (language basics; venv; numpy, pandas, jupyter, data visualization, etc.)
@@ -31,3 +31,4 @@ Previous experience with:
 - C++
 - SQLite
 - Qt
+-->
